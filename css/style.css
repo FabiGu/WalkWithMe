@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a:link { color:#000000; text-decoration:none; }
+a:visited { color:#000000; text-decoration:none; }
+a:focus { color:#000000; text-decoration:none; }
+a:hover { color:#000000; background-color:#33CC33; text-decoration:none; }
+a:active { color:#000000; text-decoration:none; }
+
+.Stil3 {font-family: Helvetica; font-weight: normal; font-size: 12px; line-height:18px; letter-spacing:1px; color:#000000 }
+.Stil6 {font-family: Helvetica; font-weight: bold; font-size: 24px; line-height:24px; letter-spacing:1px; color:#000000; }
+.Stil7 {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 24px;
+	line-height:24px;
+	letter-spacing:1px;
+	color:#000000;
+	text-align: center;
+	position: relative;
+}
